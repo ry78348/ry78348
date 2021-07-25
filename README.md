@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Rohit(RY)
+### A person who is in love with AI.
+
 
 <!--
 **ry78348/ry78348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🔭 My area of interests is in Data Science & it's applications, Swimming & Cricket.
+ 🌱 I’m currently learning MERN stack sideby.
+ 💬 Ask me about Data Science & AWS
+ 📫 How to reach me: rohitry471@gmail.com
+ 
+
+ 
